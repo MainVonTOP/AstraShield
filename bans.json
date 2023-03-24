@@ -1,0 +1,52 @@
+{
+    "ItzzMxrco": {
+        "ip": "NONE SUPPLIED",
+        "steam": "NONE SUPPLIED",
+        "xbl": "xbl:2535424352031187",
+        "ID": 21999,
+        "live": "xbl:2535424352031187",
+        "discord": "<@1061349564021473370>",
+        "reason": "Tried to spawn Blacklisted Explosion, Type: 2",
+        "license": "license2:12ad026e21d90409a273b8dc829f69ef10fca408"
+    },
+    "Rp Spielen": {
+        "ip": "NONE SUPPLIED",
+        "steam": "NONE SUPPLIED",
+        "xbl": "NONE SUPPLIED",
+        "ID": 38449,
+        "live": "NONE SUPPLIED",
+        "discord": "<@1083336988809248778>",
+        "reason": "Tried to trigger Blacklisted Event: adminmenu:allowall",
+        "license": "license2:a0601d5fca205d26a0098f8b03f85f354b119773"
+    },
+    "Timo": {
+        "ip": "NONE SUPPLIED",
+        "xbl": "NONE SUPPLIED",
+        "reason": "Tried to stop Script: AstraShield",
+        "license": "license2:337f44c624066b4b6d1ce5268d8240fe79595016",
+        "live": "NONE SUPPLIED",
+        "discord": "<@1087045194156879912>",
+        "ID": 37478,
+        "steam": "NONE SUPPLIED"
+    },
+    "nil": {
+        "ip": "NONE SUPPLIED",
+        "steam": "NONE SUPPLIED",
+        "xbl": "NONE SUPPLIED",
+        "ID": 85858,
+        "live": "NONE SUPPLIED",
+        "discord": "NONE SUPPLIED",
+        "reason": "Tried to trigger Blacklisted Event: adminmenu:allowall",
+        "license": "NONE SUPPLIED"
+    },
+    "leon2190leon": {
+        "ip": "NONE SUPPLIED",
+        "steam": "NONE SUPPLIED",
+        "xbl": "NONE SUPPLIED",
+        "ID": 92842,
+        "live": "NONE SUPPLIED",
+        "discord": "<@1087082477526450276>",
+        "reason": "Detected Weapon: WEAPON_RPG",
+        "license": "license2:c7e596301c380ee1efe63de0a1e20222c9e0c2ea"
+    }
+}
